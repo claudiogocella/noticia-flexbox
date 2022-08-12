@@ -1,0 +1,9 @@
+.flexible {
+  display: flex;
+}
+img {
+  width: 50%;
+}
+p {
+  width: 45%;
+}
