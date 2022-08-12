@@ -1,3 +1,24 @@
+.contenedor-flex {
+  padding: 20 auto; 
+  margin: 0 auto;
+  margin-top: 50px;
+  marging-bottom: 50; 
+  marging-left: 50px; 
+  marging-right: 50;*/
+  width: 70%;
+  height: 300;
+  border: 1px solid black;
+
+  display: flex; 
+  flex-wrap: wrap;
+  /*flex-direction: row;
+  justify-content: start;
+  align-items: flex-start;
+  align-content: flex-start;*/
+}
+
+
+
 .flexible {
   display: flex;
   justify-content: space-between;
@@ -7,7 +28,7 @@ img {
   width: 50%;
 }
 p {
-  width: 400px;
+  width: 45%;
 }
 .box {
   display: flex;
